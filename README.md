@@ -2,7 +2,6 @@
 👀 I’m interested in WordPress development, web design, and software development  
 🌱 I’m currently learning Java and enhancing my skills in full-stack development  
 📫 How to reach me: Don't Try!
-
 ⚡ Fun fact: I once turned a bug into a feature... on purpose!  
 
 <!---
